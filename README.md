@@ -4,7 +4,6 @@ Welcome to the Contact Management System! This is a command-line-based Python ap
 
 The project is structured into multiple Python files to ensure clean code organization and maintainability. It utilizes Python dictionaries to store contact information and includes features such as input validation and error handling.
 
----
 ## Features
 * Add, Edit, Delete Contacts: Manage your contacts by adding, editing, and deleting entries. Each contact is stored with a name, phone number, email, and additional information.
 * Search Contacts: Look up contact information by their name or unique identifier.
@@ -15,7 +14,6 @@ The project is structured into multiple Python files to ensure clean code organi
 * Input Validation: Ensures that the contact information (e.g., email and phone number) is in the correct format using regular expressions.
 * Error Handling: Graceful handling of invalid input and file-related errors.
 
----
 ## File Structure
 This project is organized across multiple files to improve readability and code management. Here’s a breakdown of the key files:
 
@@ -27,7 +25,6 @@ This project is organized across multiple files to improve readability and code 
 
 4. README.md - This file, providing an overview of the project.
 
----
 ## How to Run the Application
 1. Clone the Repository:
 
@@ -56,7 +53,6 @@ Menu:
 ```
 4. Follow the Instructions: Choose the number corresponding to the action you want to take and follow the prompts to manage your contacts.
 
----
 ## Example Usage
 Here’s a sample interaction with the Contact Management System:
 
@@ -86,7 +82,6 @@ Contact added successfully!
 * Phone Number Validation: Ensures the phone number follows a proper format.
 * Error Handling: The program gracefully handles incorrect inputs and invalid file paths.
 
----
 ## Project Structure
 contact-management-system/
 │
@@ -95,6 +90,5 @@ contact-management-system/
 ├── helpers.py                 # Input validation and file handling functions.
 ├── README.md                  # Project overview and instructions.
 
----
 ## Conclusion
 This Contact Management System allows you to manage your contacts with ease, featuring a modular code structure for better organization and maintainability. Feel free to explore the code and extend its functionalities!
