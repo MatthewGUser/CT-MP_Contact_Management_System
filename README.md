@@ -29,8 +29,8 @@ This project is organized across multiple files to improve readability and code 
 1. Clone the Repository:
 
 ```
-git clone https://github.com/your-username/contact-management-system.git
-cd contact-management-system
+git clone https://github.com/MatthewGUser/CT-MP_Contact_Management_System
+cd CT-MP_Contact_Management_System
 ```
 
 2. Run the Application: In your terminal, run the contact_manager.py file to start the program:
