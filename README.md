@@ -76,7 +76,6 @@ Enter additional information: Friend from work
 Contact added successfully!
 ```
 
----
 ## Input Validation
 * Email Validation: Ensures the email follows a standard email format using regex.
 * Phone Number Validation: Ensures the phone number follows a proper format.
