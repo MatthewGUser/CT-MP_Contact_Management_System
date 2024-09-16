@@ -82,11 +82,13 @@ Contact added successfully!
 * Error Handling: The program gracefully handles incorrect inputs and invalid file paths.
 
 ## Project Structure
+```
 contact-management-system/
-- contact_manager.py         # Main entry point for the application (UI and menu).
-- contacts_storage.py        # Functions for adding, editing, deleting contacts.
-- helpers.py                 # Input validation and file handling functions.
-- README.md                  # Project overview and instructions.
+├── contact_manager.py    # Main entry point for the application (UI and menu).
+├── contacts_storage.py   # Functions for adding, editing, deleting contacts.
+├── helpers.py            # Input validation and file handling functions.
+└── README.md             # Project overview and instructions.
+```
 
 ## Conclusion
 This Contact Management System allows you to manage your contacts with ease, featuring a modular code structure for better organization and maintainability. Feel free to explore the code and extend its functionalities!
